@@ -1,2 +1,1 @@
 # DentyTech-Lite
-# DentyTech-Lite
